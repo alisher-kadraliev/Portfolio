@@ -76,11 +76,11 @@ export function Globe({ globeConfig, data }: WorldProps) {
 
     const defaultProps = {
         pointSize: 1,
-        atmosphereColor: "#ffffff",
+        atmosphereColor: "#22c55e",
         showAtmosphere: true,
         atmosphereAltitude: 0.1,
-        polygonColor: "rgba(255,255,255,0.7)",
-        globeColor: "#1d072e",
+        polygonColor: "#22c55e",
+        globeColor: "#22c55e",
         emissive: "#000000",
         emissiveIntensity: 0.1,
         shininess: 0.9,
